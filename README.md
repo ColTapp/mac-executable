@@ -1,2 +1,7 @@
 # mac-executable
-This repository contains the executable file to install CTA on a macOS
+This repository contains the executable file to install CTA on a macOS.
+Ensure that MATLAB Runtime R2020a (9.8) is installed. It is freely
+available under:
+https://ch.mathworks.com/de/products/compiler/matlab-runtime.html
+
+
